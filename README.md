@@ -56,7 +56,7 @@ Click the button below to deploy the bot to Heroku:
 
 Click the button below to deploy the bot to Koyeb:
 
-[![Deploy](https://deploy.koyeb.com/button.svg)](https://deploy.koyeb.com/deploy)
+[![Deploy](https://images.saasworthy.com/tr:w-178,h-0/koyeb_8179_logo_1646391597_vovez.svg)](https://deploy.koyeb.com/deploy)
 
 ### Railware Deployment
 
